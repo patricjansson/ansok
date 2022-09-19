@@ -15,7 +15,7 @@ Vi är produkt och teknikoberoende. Vi utvecklar i allt från Node, till Go men 
 
 Vi finns i Stockholm och Linköping och hjälper några av Sveriges mäst kända varumärken med integrationer, cloud och digitala tjänster. 
 
-Har du ett projekt eller repo du är stolt över, droppa mig ett DM 😃 så blir jag toppen glad!
+Har du ett projekt eller repo du är stolt över, plinga mig 😃 så kanske vi kan bli kollegor!
 
 Puss & kram
 
